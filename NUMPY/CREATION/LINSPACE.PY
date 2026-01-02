@@ -1,0 +1,7 @@
+# LINSPACE FUNCTION CREARTES EVENLY SPACED NUMBER (INCLUDING START END) BETWEEN GIVEN RANGE 
+
+
+import numpy as np
+
+arr = np.linspace(1,20, 5)
+print(arr)

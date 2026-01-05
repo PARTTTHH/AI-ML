@@ -6,7 +6,7 @@ WHEN WE WANT TO RESHAPE OUR EXSISTING 1D ARRAY IT IS POSSIBILE WITH HELP OF
 import numpy as np
 
 arr = np.array([1,2,3,4,5,6])
-re_shaped = arr.reshape(3,2)
+re_shaped = arr.reshape(2,-1)
 print(re_shaped)
 
 

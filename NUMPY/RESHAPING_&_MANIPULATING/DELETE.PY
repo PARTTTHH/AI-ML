@@ -11,6 +11,12 @@ print(arr)
 
 new_arr = np.delete(arr, 2)
 print(new_arr)
+print()
 
 
-print(arr)      #ORIGINAL ONE STAYS AS IT IS
+print("ALSO WE DO THIS SAME FOR 2D OR MULTI DIAMENTIONAL ARRAYS")
+arr_2d = np.array([[1,2,3],
+                   [4,5,6]])
+print(arr_2d)
+new_2d_arr = np.delete(arr_2d, 0, axis=0)
+print(new_2d_arr)

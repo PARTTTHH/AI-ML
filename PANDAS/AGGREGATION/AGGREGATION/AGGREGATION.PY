@@ -59,16 +59,3 @@ print(
         "AGE": ["min", "max", "mean"]
     })
 )
-print()
-
-# AGGREGATION WITH groupby()
-data2 = {
-    "DEPARTMENT":["IT", "IT", "HR", "HR", "IT"],
-    "SALARY":[50000, 60000, 45000, 40000, 70000]
-}
-
-df2 = pd.DataFrame(data2)
-
-print(
-    df2.groupby("DEPARTMENT")["SALARY"].mean()
-)

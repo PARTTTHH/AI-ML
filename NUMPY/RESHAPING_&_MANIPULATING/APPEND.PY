@@ -1,9 +1,6 @@
-"""WHEN WE WANT TO INSERT A VALUE AT END OF THE ARRAY 
-NUMPY PROVIDE A FUNCTION FOR IT SAME LIKE LIST APPEND
-WE HAVE         np.append()       FUNCTION FOR INSERT A VALUE AT END OF ARRAY
+"""
+        np.append()       FUNCTION FOR INSERT A VALUE AT END OF ARRAY
                 np.append(arr_here, value)
-        arr_here = ARR WHERE WE WANT TO PERFORM THIS INSERT
-        value =  VALUE THAT WE WANTED TO APPEND
 """
 
 import numpy as np

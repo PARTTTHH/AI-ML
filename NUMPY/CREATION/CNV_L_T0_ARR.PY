@@ -7,8 +7,7 @@ arr = np.array([1, 2, 3, 4, 5])
 print(arr)
 print()
 
-l = [2, 4, 6, 8, 10]   # OUR LIST TO CONVERT INTO ARRAY
-print("LETS CHECK TYPE OF l FIRST THEN CONVERT INTO ARR AND CHECK AGAIN")
+l = [2, 4, 6, 8, 10]  
 print(f"l = {l}")
 print(type(l)) 
 

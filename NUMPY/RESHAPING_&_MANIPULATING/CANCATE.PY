@@ -1,8 +1,7 @@
 """
 WHEN WE WANT TO JOIN OR ADD TWO OR MORE ARRAYS TOGETHER 
-NUMPY PROVIDES 
-                np.concatenate()    FUNCTION FOR IT
-                np.cancatenate((arr1, arr2), axis=0/1)    WE PASS ARRAYS IN TUPLE FORM
+                np.concatenate()   
+                np.cancatenate((arr1, arr2), axis=0/1)    WE PASS ARRAYS IN TUPLE 
 axis = 0  -> VERTICLKE STACKING
 axis = 1  -> HORIZONTAL STACKING
 """

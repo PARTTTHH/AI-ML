@@ -1,5 +1,4 @@
-# CREATING SECVENCES OF NUMBER IN NUMPY SAME LIKE RANGE FUNCTION
-# arange() FUNCTION 
+# arange()
 # arange(start,stop,step) 
 
 import numpy as np

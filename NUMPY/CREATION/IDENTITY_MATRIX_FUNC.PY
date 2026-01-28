@@ -1,5 +1,5 @@
 # IDENTITY MATRIX OR EYE FUNCTION  1s ON THE DIAGONAL AND ZEROs ELSE WHERE
-# eye(size)   EYE FUNCTION
+# eye(size)  
 
 import numpy as np
 

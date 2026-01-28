@@ -1,6 +1,4 @@
-# WE SOMETIMES WANTED TO CHNAGE THE DATA TYPES OF THE ARRAY TO 
-# PERFORM PERFECT MATHEMATICAL OPERATION FOR THAT NUMPY PROVIDES 
-    # .astype(new type here)  FUCTION 
+# .astype(new type here)
     
 import numpy as np
 

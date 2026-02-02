@@ -9,4 +9,6 @@ plt.plot(months, sales, color='orange', linestyle='--', linewidth=2, marker='o',
 plt.xlabel("MONTHS")
 plt.ylabel("SALES PER MONTH")
 plt.title("MONTHLY SALES REPORT")
+plt.legend(loc='lower right', fontsize=10)    # 'best', 'upper right', 'upper left', 'lower left', 'lower right', 'right', 'center left', 'center right', 'lower center', 'upper center', 'center'
+plt.grid(color='gray', linestyle='-', linewidth=1)
 plt.show()
